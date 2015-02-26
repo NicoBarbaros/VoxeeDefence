@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: b5e9ea9c594651d4b99df52d7a1e42eb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CircleUnderEnergy
+    100002: Flying_stones
+    100004: PE1
+    100006: PE10
+    100008: PE12
+    100010: PE13
+    100012: PE14
+    100014: PE2
+    100016: PE3
+    100018: PE4
+    100020: PE5
+    100022: PE6
+    100024: PE7
+    100026: PE8
+    100028: PE9
+    100030: //RootNode
+    100032: Pure_Energy
+    400000: CircleUnderEnergy
+    400002: Flying_stones
+    400004: PE1
+    400006: PE10
+    400008: PE12
+    400010: PE13
+    400012: PE14
+    400014: PE2
+    400016: PE3
+    400018: PE4
+    400020: PE5
+    400022: PE6
+    400024: PE7
+    400026: PE8
+    400028: PE9
+    400030: //RootNode
+    400032: Pure_Energy
+    2300000: CircleUnderEnergy
+    2300002: PE1
+    2300004: PE10
+    2300006: PE12
+    2300008: PE13
+    2300010: PE14
+    2300012: PE2
+    2300014: PE3
+    2300016: PE4
+    2300018: PE5
+    2300020: PE6
+    2300022: PE7
+    2300024: PE8
+    2300026: PE9
+    2300028: Pure_Energy
+    3300000: CircleUnderEnergy
+    3300002: PE1
+    3300004: PE10
+    3300006: PE12
+    3300008: PE13
+    3300010: PE14
+    3300012: PE2
+    3300014: PE3
+    3300016: PE4
+    3300018: PE5
+    3300020: PE6
+    3300022: PE7
+    3300024: PE8
+    3300026: PE9
+    3300028: Pure_Energy
+    4300000: Pure_Energy
+    4300002: CircleUnderEnergy
+    4300004: PE1
+    4300006: PE2
+    4300008: PE3
+    4300010: PE4
+    4300012: PE5
+    4300014: PE6
+    4300016: PE7
+    4300018: PE8
+    4300020: PE9
+    4300022: PE10
+    4300024: PE12
+    4300026: PE13
+    4300028: PE14
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
